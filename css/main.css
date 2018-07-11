@@ -1,0 +1,63 @@
+
+#background {
+   background: linear-gradient(white, silver)
+}
+
+.round {
+	border-radius: 70%;
+	width: 30%
+}
+
+#console {
+  font-family: 'consolas';
+  color: rgb(217, 217, 217);
+}
+
+.featurette-image.img-responsive.center-block {
+  margin-top: 120px;
+  width: 500px;
+  height: 500px;
+  border-radius: 5px;
+}
+
+.lead ul {
+  overflow: hidden;
+}
+
+.lead li {
+  display: inline;
+  float: left;
+  width: 33%;
+}
+
+#center-heading {
+  text-align: center;
+}
+
+#description1 {
+  font-size: 20px;
+}
+
+#description2 {
+  font-size: 20px;
+}
+
+#description3 {
+  font-size: 20px;
+}
+
+#description4 {
+  font-size: 20px;
+}
+
+#description6 {
+  font-size: 20px;
+}
+
+.contact-subtitle {
+  font-size: 18px;
+}
+
+#poker-sean {
+  width: 10px;
+}

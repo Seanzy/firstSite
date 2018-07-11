@@ -1,0 +1,17 @@
+{
+  "name": "seangurson.com",
+  "version": "1.0.0",
+  "description": "Sean Gurson's Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "go"
+  },
+  "keywords": [
+    "bitcoin",
+    "cryptocurrency",
+    "ether",
+    "ethereum"
+  ],
+  "author": "Seanzy",
+  "license": "ISC"
+}
